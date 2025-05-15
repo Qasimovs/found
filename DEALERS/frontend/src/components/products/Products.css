@@ -1,0 +1,21 @@
+#sectionone{
+    padding: 60px 0;
+}
+
+.products{
+    display: flex;
+    justify-content: space-between;
+}
+.highlow{
+    display:flex;
+    gap: 20px;
+    button{
+        padding: 10px 20px;
+        font-size: 20px;
+        color: rgb(10, 10, 10);
+        cursor: pointer;
+    }
+}
+h2{
+    font-size: 50px;
+}
