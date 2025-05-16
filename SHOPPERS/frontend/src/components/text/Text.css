@@ -1,0 +1,17 @@
+#sectiontwo{
+    padding: 70px 0;
+    height: 300px;
+}
+.texts{
+    display: flex;
+}
+
+.retur{
+    display: flex;
+}
+.ship{
+    display: flex;
+}
+.custom{
+    display: flex;
+}

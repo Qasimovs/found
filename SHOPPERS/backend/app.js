@@ -1,0 +1,17 @@
+import express from "express"
+import "dotenv/config"
+import "./src/db/Connection.js"
+import productRouter from "./src/routes/productRouter.js"
+import cors from 'cors'
+
+const app = express()
+const port = process.env.PORT || 4001
+app.use(cors())
+app.use(express.json())
+app.use("/api/products", productRouter)
+
+
+app.listen(port, () => {
+    console.log(`Server is runing ${`http://localhost:${port}`}`);
+
+})

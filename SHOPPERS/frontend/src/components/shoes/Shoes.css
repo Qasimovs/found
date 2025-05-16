@@ -1,0 +1,29 @@
+
+.shoes {
+    background-image: url(https://preview.colorlib.com/theme/shoppers/images/hero_1.jpg.webp);
+    height: 800px;
+}
+
+.finding {
+    /* height: 100%; */
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 50%;
+   
+   
+}
+.twice{
+    display: flex;
+    height: 800px;
+    text-align: left;
+    align-items: center;
+    gap: 100px;
+}
+.bos{
+    width: 50%;
+}
+.btn{
+    width: 130px;
+    height: 40px;
+}
