@@ -3,10 +3,6 @@ import Logo from '../logo/Logo'
 import Navlist from '../navlist/Navlist'
 import Wrapper from '../wrapper/Wrapper'
 import "./Navbar.css"
-<<<<<<< HEAD
-import Hamb from '../hamb/Hamb'
-=======
->>>>>>> fdae8db9bb7e0ccefd0cac3f357dffe068fa00fc
 
 const Navbar = () => {
   return (
@@ -14,10 +10,6 @@ const Navbar = () => {
         <Logo/>
         <Navlist/>
         <Wrapper/>
-<<<<<<< HEAD
-        <Hamb/>
-=======
->>>>>>> fdae8db9bb7e0ccefd0cac3f357dffe068fa00fc
     </div>
   )
 }

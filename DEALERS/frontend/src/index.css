@@ -66,20 +66,19 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 } */
- *{
+*{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
- }
- .container{
-   max-width: 1400px;
+}
+.container{
   margin: 0 auto;
- }
- a{
-  text-decoration: none !important;
+  max-width: 1400px;
+}
+a{
+  text-decoration: none !important ;
   color: inherit !important;
-
- }
+}
 li{
   list-style: none;
 }
@@ -87,7 +86,3 @@ img{
   height: 100%;
   width: 100%;
 }
-<<<<<<< HEAD
-
-=======
->>>>>>> fdae8db9bb7e0ccefd0cac3f357dffe068fa00fc

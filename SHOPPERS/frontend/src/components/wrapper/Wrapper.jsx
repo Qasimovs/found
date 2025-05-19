@@ -10,10 +10,17 @@ const Wrapper = () => {
   return (
     <div className='wrapper'>
         <Link><FaUser /></Link>
+<<<<<<< HEAD
         <Link ><FaHeart />
         <sup>0</sup>
         </Link>
         <Link to={"/basket"}> <FaBasketShopping /> <sup>0  </sup></Link>
+=======
+        <Link><FaHeart />
+        <sup>0</sup>
+        </Link>
+        <Link> <FaBasketShopping /> <sup>0  </sup></Link>
+>>>>>>> fdae8db9bb7e0ccefd0cac3f357dffe068fa00fc
         
     </div>
   )

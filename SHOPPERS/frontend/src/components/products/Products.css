@@ -1,13 +1,18 @@
 .products{
     display: flex;
     /* justify-content: center; */
+<<<<<<< HEAD
     gap: 600px;
+=======
+    gap: 900px;
+>>>>>>> fdae8db9bb7e0ccefd0cac3f357dffe068fa00fc
 }
 .highlow{
     display: flex;
     /* justify-content: end; */
     gap: 30px;
  
+<<<<<<< HEAD
 }
 .products_list{
     display: flex;
@@ -16,4 +21,6 @@
     /* padding: 70px 0; */
     align-items: center;
     justify-content: center;
+=======
+>>>>>>> fdae8db9bb7e0ccefd0cac3f357dffe068fa00fc
 }

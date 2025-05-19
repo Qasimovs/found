@@ -1,4 +1,5 @@
 import React from 'react'
+<<<<<<< HEAD
 import "./Product.css"
 import { FaHeart } from "react-icons/fa";
 import { useDispatch } from 'react-redux';
@@ -27,6 +28,12 @@ const Product = ({ product }) => {
 
 
     </section>
+=======
+
+const Product = () => {
+  return (
+    <div>Product</div>
+>>>>>>> fdae8db9bb7e0ccefd0cac3f357dffe068fa00fc
   )
 }
 

@@ -1,0 +1,31 @@
+.girl{
+    display: flex;
+    width: 640px;
+    height: 800px;
+   
+    
+}
+.hero{
+    display: flex;
+    gap: 50px;
+    
+}
+.madewell{
+    font-size: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+}
+.btn{
+    display:flex;
+    gap: 20px;
+    button{
+        padding: 15px 20px;
+        font-size: 20px;
+        color: rgb(10, 10, 10)
+    }
+}
+.blue{
+    background-color: rgb(25, 83, 150);
+}

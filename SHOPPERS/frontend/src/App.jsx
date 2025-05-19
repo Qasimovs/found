@@ -10,7 +10,10 @@ import Shop from './pages/Shop'
 import Catalogue from './pages/Catalogue'
 import New from './pages/New'
 import Contact from './pages/Contact'
+<<<<<<< HEAD
 import Basket from './pages/basket/Basket'
+=======
+>>>>>>> fdae8db9bb7e0ccefd0cac3f357dffe068fa00fc
 const router = createBrowserRouter([
   {
     path: "/",
@@ -40,10 +43,13 @@ const router = createBrowserRouter([
         path: "/contact",
         element:<Contact/>
       },
+<<<<<<< HEAD
       {
         path: "/basket",
         element:<Basket/>
       }
+=======
+>>>>>>> fdae8db9bb7e0ccefd0cac3f357dffe068fa00fc
     ]
   }
 ])
