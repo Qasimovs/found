@@ -1,0 +1,20 @@
+.welcome{
+     background-image: url('your-image.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 100vh; /* or your preferred height */
+  color: white; /* text color */
+  text-align: center;
+  padding: 20px;
+  position: relative;
+}
+.eat{
+     position: absolute;
+  top: 20px;
+  right: 20px
+}
+ .resdaran{
+    background-image: url(images/bg_3.jpg);
+     background-position: center;
+     position: relative;
+ }

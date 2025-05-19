@@ -1,0 +1,15 @@
+.hamb{
+    display: none;
+    font-size: 30px;
+}
+@media (min-width:768px) and (max-width:992px){
+    .hamb{
+        display: block;
+    }
+    .list{
+        display: none;
+    }
+    .wrapper{
+        display: none;
+    }
+}

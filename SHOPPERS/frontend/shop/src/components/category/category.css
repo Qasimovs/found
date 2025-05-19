@@ -1,0 +1,23 @@
+.cards{
+position: relative;
+
+}
+.cards-cont{
+    position: absolute;
+    left: 20px;
+    bottom: 20px;
+    color: rgba(0, 0, 0, 0.822);
+}
+.cards-cont p{
+    font-size: 20px;
+}
+.cards-cont strong{
+    font-size: 40px;
+    
+}
+.total{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-bottom: 80px;
+}

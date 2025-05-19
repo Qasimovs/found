@@ -1,0 +1,10 @@
+.wrapper{
+    font-size: 20px;
+    display: flex;
+    gap: 20px;
+    cursor: pointer;
+    align-items: center;
+}
+.sup{
+    font-size: 15px;
+}

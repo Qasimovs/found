@@ -1,0 +1,33 @@
+.hero-back{
+    background-image: url(https://preview.colorlib.com/theme/shoppers/images/hero_1.jpg.webp);
+    height: 800px;
+}
+.hero-cont{
+    width: 50% ;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.hero-cont h1{
+   font-size: 50px;
+}
+.hero-cont p{
+   font-size: 20px;
+   
+}
+
+.hero-space{
+    width: 50% ;
+}
+.opsi{
+    display: flex;
+    align-items: center;
+    height: 800px;
+}
+.hero-btn{
+width: 130px;
+height: 40px;
+background-color: blueviolet;
+color: white;
+border: 0;
+}
